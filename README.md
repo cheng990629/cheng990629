@@ -5,7 +5,7 @@
 [![email](https://img.shields.io/badge/-zmh@lightxi.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zmh@lightxi.com)
 
 
-CTO @Cayde Inc. / Open Source Enthusiast / A boy born in 1999 🙋‍♂️
+Programmer @Pocobo Inc. / Open Source Enthusiast / A boy born in 99 🙋‍♂️
 
 ### ⚒ Skills
 🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
