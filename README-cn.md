@@ -1,7 +1,7 @@
 ## 👋 我是 @cheng990629!
 
 [![X (推特)](https://img.shields.io/badge/-cheng990629?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/programzmh)
-[![微信](https://img.shields.io/badge/-cheng990629?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
+[![微信](https://img.shields.io/badge/-cheng990629?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./w)
 [![邮箱](https://img.shields.io/badge/-cheng990629@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zmh@lightxi.com)
 
 
@@ -29,5 +29,4 @@
 - [珀卡博科技有限公司](https://github.com/LightXi) (架构师)
 - [湖北万亚软件技术有限公司](https://github.com/Sh1n3zZ) (架构师)
 
-
-### 私有文档(https://github.com/cheng990629/cheng990629-private)
+·
